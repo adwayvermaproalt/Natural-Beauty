@@ -1,0 +1,12 @@
+.center{
+   display: block;       
+   margin: 0 auto;
+}
+body{
+	background-image: url(https://www.tourmyindia.com/states/jammu-kashmir/image/jummu-kashmir-banner.jpg);
+	background-size: cover;
+}
+.p{
+	font-size: 900;
+	color: yellow;
+}
